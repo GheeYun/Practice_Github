@@ -655,3 +655,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.01-07.12.33:407][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.06.01-07.12.43:108][562]LogAssetRegistry: Asset discovery search completed in 17.8495 seconds
 [2021.06.01-07.12.43:120][562]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.06.01-07.19.21:329][106]LogSlate: Window '레벨 다른 이름으로 저장' being destroyed
+[2021.06.01-07.19.21:354][106]LogSlate: Took 0.000973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.01-07.19.21:398][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../../Unreal Engine Class/Practice_Github/Practice_Git/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.01-07.19.21:417][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.06.01-07.19.21:451][106]LogSavePackage: Moving '../../../../../../Unreal Engine Class/Practice_Github/Practice_Git/Saved/MapF0E26A374FC121A7E396D2852E0AC223.tmp' to '../../../../../../Unreal Engine Class/Practice_Github/Practice_Git/Content/Map.umap'
+[2021.06.01-07.19.21:470][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_BuiltData" FILE="../../../../../../Unreal Engine Class/Practice_Github/Practice_Git/Content/Map_BuiltData.uasset" SILENT=true
+[2021.06.01-07.19.21:489][106]LogSavePackage: Moving '../../../../../../Unreal Engine Class/Practice_Github/Practice_Git/Saved/Map_BuiltDataB39841E14A9CB90837E96884E27F5C1D.tmp' to '../../../../../../Unreal Engine Class/Practice_Github/Practice_Git/Content/Map_BuiltData.uasset'
+[2021.06.01-07.19.21:506][106]LogFileHelpers: Saving map 'Map' took 0.161
+[2021.06.01-07.19.21:517][106]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.06.01-07.19.21:517][106]LogContentValidation: Display: World /Game/Map.Map 유효성 검사
+[2021.06.01-07.19.21:517][106]LogContentValidation: Display: MapBuildDataRegistry /Game/Map_BuiltData.Map_BuiltData 유효성 검사
+[2021.06.01-07.19.21:544][106]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.01-07.19.24:000][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../../Unreal Engine Class/Practice_Github/Practice_Git/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.01-07.19.24:015][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.06.01-07.19.24:035][244]LogSavePackage: Moving '../../../../../../Unreal Engine Class/Practice_Github/Practice_Git/Saved/MapD66A40C4448C19FB8FECB9A9E300D698.tmp' to '../../../../../../Unreal Engine Class/Practice_Github/Practice_Git/Content/Map.umap'
+[2021.06.01-07.19.24:047][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_BuiltData" FILE="../../../../../../Unreal Engine Class/Practice_Github/Practice_Git/Content/Map_BuiltData.uasset" SILENT=true
+[2021.06.01-07.19.24:059][244]LogSavePackage: Moving '../../../../../../Unreal Engine Class/Practice_Github/Practice_Git/Saved/Map_BuiltDataCFB2D3E94CE97F134B8211B118AC8F88.tmp' to '../../../../../../Unreal Engine Class/Practice_Github/Practice_Git/Content/Map_BuiltData.uasset'
+[2021.06.01-07.19.24:078][244]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.06.01-07.19.24:078][244]LogContentValidation: Display: World /Game/Map.Map 유효성 검사
+[2021.06.01-07.19.24:078][244]LogContentValidation: Display: MapBuildDataRegistry /Game/Map_BuiltData.Map_BuiltData 유효성 검사
